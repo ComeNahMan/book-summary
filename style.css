@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+
+body{
+  font-family: "Poppins", "Comic Sans MS", serif;
+  font-weight: bold;
+  background-color: rgb(242,242, 242);
+  margin-left: 4em;
+  margin-right: 5em;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  line-height: 1.5em;
+
+}
+
+h1 {
+  font-style: oblique;
+  background-color: rgba(255, 66, 161, 0.5) ;
+  font-size: 250%;
+  text-shadow: 2px 2px 3px #666666;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 150px;
+  padding-right: 15px;
+  border-radius: 50px;
+  width: 450px;
+}
+h2 {font-style: oblique;
+background-color: rgba(255, 66, 161, 0.5) ;
+font-size: 250%;
+text-shadow: 2px 2px 3px #666666;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 50px;
+padding-right: 15px;
+border-radius: 50px;
+width: 250px;
+
+}
+
+a:link{
+  text-decoration: underline;
+  color: #3d7bff;
+}
+
+a:visited{
+  text-decoration: underline;
+  color: rgb(2, 3, 110);
+}
+
+
+a:hover{
+  text-decoration: underline;
+  color: #ff4a4a;
+}
+
+a:active{
+  text-decoration: underline;
+  color: #780000;
+}
